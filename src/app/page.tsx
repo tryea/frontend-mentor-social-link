@@ -13,7 +13,7 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-col gap-1">
-          <h1 className="text-2xl leading-normal text-white">
+          <h1 className="text-2xl leading-normal text-white font-semibold">
             Jessica Randall
           </h1>
           <p className="text-neon_green text-sm leading-normal font-bold">
